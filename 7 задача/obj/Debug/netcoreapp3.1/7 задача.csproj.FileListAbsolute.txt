@@ -1,0 +1,12 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\bin\Debug\netcoreapp3.1\7 задача.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\bin\Debug\netcoreapp3.1\7 задача.deps.json
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\bin\Debug\netcoreapp3.1\7 задача.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\bin\Debug\netcoreapp3.1\7 задача.runtimeconfig.dev.json
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\bin\Debug\netcoreapp3.1\7 задача.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\bin\Debug\netcoreapp3.1\7 задача.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\obj\Debug\netcoreapp3.1\7 задача.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\obj\Debug\netcoreapp3.1\7 задача.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\obj\Debug\netcoreapp3.1\7 задача.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\obj\Debug\netcoreapp3.1\7 задача.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\obj\Debug\netcoreapp3.1\7 задача.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\7 задача\7 задача\obj\Debug\netcoreapp3.1\7 задача.genruntimeconfig.cache
